@@ -15,6 +15,7 @@ zendesk.trigger_order {
         zendesk.trigger.instance.GWR_Purple@s,
         zendesk.trigger.instance.GWR_Red@s,
         zendesk.trigger.instance.GWR_Yellow@s,
+        zendesk.trigger.instance.GWR_Yellow_branch@s,
         zendesk.trigger.instance.SRD___Dark_Mode_Inquiry@sbsss,
         zendesk.trigger.instance.GWR_DC_Trigger1@s,
       ]
