@@ -1,5 +1,10 @@
 workspace {
+<<<<<<< HEAD
   uid = "340eb5e2-9264-4dfd-9556-719e07501ea4"
   name = "env340eb5e2-9264-4dfd-9556-719e07501ea4"
+=======
+  uid = "3675dc5a-1223-49d6-82d8-7fa9f03f1277"
+  name = "feature2-zen-x-gwr"
+>>>>>>> 6e1ec1a (Salto initial commit)
   staleStateThresholdMinutes = undefined
 }

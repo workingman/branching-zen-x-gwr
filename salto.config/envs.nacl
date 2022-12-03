@@ -1,5 +1,6 @@
 envs {
   envs = [
+<<<<<<< HEAD
     {
       name = "prod-zen-x-gwr"
       accountToServiceName = {
@@ -12,5 +13,7 @@ envs {
         zendesk = "zendesk"
       }
     },
+=======
+>>>>>>> 6e1ec1a (Salto initial commit)
   ]
 }

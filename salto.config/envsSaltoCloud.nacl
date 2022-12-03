@@ -1,5 +1,6 @@
 envs {
   envsCloud = [
+<<<<<<< HEAD
     {
       uuid = "340eb5e2-9264-4dfd-9556-719e07501ea4"
       folderName = "prod-zen-x-gwr"
@@ -8,5 +9,7 @@ envs {
       uuid = "35c34a40-08da-4680-983b-0753f5bbe8e0"
       folderName = "sbox-zen-x-gwr"
     },
+=======
+>>>>>>> 6e1ec1a (Salto initial commit)
   ]
 }
