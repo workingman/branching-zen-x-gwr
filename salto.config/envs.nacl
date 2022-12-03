@@ -6,5 +6,11 @@ envs {
         zendesk = "zendesk"
       }
     },
+    {
+      name = "sbox-zen-x-gwr"
+      accountToServiceName = {
+        zendesk = "zendesk"
+      }
+    },
   ]
 }
